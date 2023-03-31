@@ -24,3 +24,23 @@ ul li {
     padding-bottom: 14px;
     text-decoration: none;
 }
+
+/* further down we will and some style to recipe pages */
+
+img {
+    height: 250px;
+    width: auto;
+}
+
+.recipe-content {
+    margin: 48px;
+}
+
+.recipe-content h3 {
+    font-size: 18px;
+    font-weight: 500;
+    padding-bottom: 24px;
+}
+
+
+
