@@ -1,0 +1,20 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+body {
+    margin: 25px;
+    font-family: 'Brush Script MT', sans-serif;
+}
+
+.h1-title {
+    font-size: 24px;
+    font-weight: 800;
+}
+
+ul li {
+    padding-bottom: 14px;
+    text-decoration: none;
+}
