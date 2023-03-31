@@ -30,17 +30,45 @@ ul li {
 img {
     height: 250px;
     width: auto;
+    margin-left: 48px;
 }
 
 .recipe-content {
     margin: 48px;
 }
 
-.recipe-content h3 {
-    font-size: 18px;
-    font-weight: 500;
+.description-content,
+.ingredients-list,
+.steps-list {
     padding-bottom: 24px;
 }
+
+.description-content h3,
+.ingredients-list h3,
+.steps-list h3 {
+    font-size: 18px;
+    font-weight: 800;
+    padding-bottom: 14px;
+}
+
+.ingredients-list ul {
+    list-style-type: circle;
+}
+
+.steps-list ol {
+    padding-left: 64px;
+}
+
+.steps-list ol li {
+    padding-bottom: 14px;
+}
+
+
+
+
+
+
+
 
 
 
