@@ -12,6 +12,12 @@ body {
 .h1-title {
     font-size: 24px;
     font-weight: 800;
+    padding-bottom: 64px;
+}
+
+ul {
+    padding-left: 64px;
+    list-style-type: none;
 }
 
 ul li {
